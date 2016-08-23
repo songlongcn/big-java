@@ -8,6 +8,6 @@ public class InvestmentRunner {
 		final double INITIAL_BALANCE = 10000;
 		final double RATE = 5;
 		Investment invest = new Investment(INITIAL_BALANCE,RATE);
-
+		System.out.println(invest.toString());
 	}
 }
