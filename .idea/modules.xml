@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bigJava.iml" filepath="$PROJECT_DIR$/bigJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/coreJava/coreJava.iml" filepath="$PROJECT_DIR$/coreJava/coreJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grailsDemo/grailsDemo.iml" filepath="$PROJECT_DIR$/grailsDemo/grailsDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/utility/utility.iml" filepath="$PROJECT_DIR$/utility/utility.iml" />
     </modules>
   </component>
