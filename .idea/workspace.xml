@@ -10,8 +10,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grailsDemo/src" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grailsDemo/grailsDemo.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grailsDemo/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="cad69205-735f-439c-a8aa-d07869514f99" name="Failed commit: Default" comment="initial commit" />
@@ -68,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/grailsDemo/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -278,7 +276,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../big-java" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="54" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="54" />
@@ -621,7 +619,7 @@
       <workItem from="1471973435691" duration="4289000" />
       <workItem from="1471981103708" duration="15000" />
       <workItem from="1471988107233" duration="2552000" />
-      <workItem from="1472666095948" duration="295000" />
+      <workItem from="1472666095948" duration="650000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1471482098539</created>
@@ -655,7 +653,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23350000" />
+    <option name="totallyTimeSpent" value="23705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1272" y="-8" width="1296" height="1040" extended-state="6" />
@@ -1000,7 +998,7 @@
     <entry file="file://$PROJECT_DIR$/grailsDemo/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
           <folding />
         </state>
       </provider>
